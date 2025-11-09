@@ -31,8 +31,8 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
 ## Links to Colab
 Please open the Jupyter notebook.
 
-   - Link to Jupyter notebook - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/result/Intro_to_Python.ipynb>
-   - Link to Juoyter notebook with solutions - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/result/Intro_to_Python.ipynb>
+   - Link to Jupyter notebook - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/Script/IntroToPython.ipynb>
+   - Link to Juoyter notebook with solutions - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/result/IntroToPython.ipynb>
 
 ## References
 *Material partially adapted from Benjamin Rudski and Najia Bouaddouch*
