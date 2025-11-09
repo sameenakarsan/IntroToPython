@@ -74,7 +74,7 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
     3. Documenting Functions
         1. Defining function docstrings
     4. **Exercise:** Writing functions for biological sequences.
-5. **Module 4 -- Where to go from here (10 minutes)**
+5. **Module 5 -- Where to go from here (10 minutes)**
     1. What to learn next? How?
     2. How to get help and how not to get help
     3. Glimpse of other cool programming topics
