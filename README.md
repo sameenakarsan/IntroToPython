@@ -1,7 +1,7 @@
 # Intro to Python
 
-[![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/Script/IntroToPython.ipynb)
-[![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/result/IntroToPython.ipynb)
+[![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/IntroToPython/blob/main/Exercises/Script/IntroToPython.ipynb)
+[![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/IntroToPython/blob/main/Exercises/result/IntroToPython.ipynb)
 
 ## Overview
 
@@ -31,8 +31,8 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
 ## Links to Colab
 Please open the Jupyter notebook.
 
-   - Link to Jupyter notebook - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/Script/IntroToPython.ipynb>
-   - Link to Juoyter notebook with solutions - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/Exercises/result/IntroToPython.ipynb>
+   - Link to Jupyter notebook - <https://colab.research.google.com/github/QLS-MiCM/IntroToPython/blob/main/Exercises/Script/IntroToPython.ipynb>
+   - Link to Juoyter notebook with solutions - <https://colab.research.google.com/github/QLS-MiCM/blob/main/IntroToPython/Exercises/result/IntroToPython.ipynb>
 
 ## References
 *Material partially adapted from Benjamin Rudski and Najia Bouaddouch*
