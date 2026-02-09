@@ -2,9 +2,9 @@
 
 **Workshop Lead: Benjamin Rudski**
 
-**Facilitator: N/A**
+**Facilitator: Sameena Karsan**
 
-**Registration link: <https://involvement.mcgill.ca/event/308519>**
+**Registration link: <https://forms.office.com/r/UwgvBnDrJ4>**
 
 **Approximate duration: 4 hours**
 
