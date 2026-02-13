@@ -5,11 +5,11 @@
 
 ## Overview
 
-In this 4-hour workshop, participants will be introduced to the basics of programming in Python. Students will journey from the beginnings of creating variables and performing simple mathematical operations to writing code that can perform fundamental tasks and wrapping this code into functions. Participants will learn how to write the important building blocks that make up complex programs.
+In this 2-hour workshop, participants will be introduced to the basics of programming in Python. Students will journey from the beginnings of creating variables and performing simple mathematical operations to writing code that can perform fundamental tasks and wrapping this code into functions. Participants will learn how to write the important building blocks that make up complex programs.
 
 * Level: Beginner
 
-* Duration: 4 hours
+* Duration: 2 hours
 
 ## Learning Objectives
 
