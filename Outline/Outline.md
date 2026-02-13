@@ -1,12 +1,12 @@
 # Intro to Python (Part 1)
 
-**Workshop Lead: Benjamin Rudski**
+**Workshop Lead: Sameena Karsan**
 
-**Facilitator: Sameena Karsan**
+**Facilitator: James Randolph**
 
 **Registration link: <https://forms.office.com/r/UwgvBnDrJ4>**
 
-**Approximate duration: 4 hours**
+**Approximate duration: 2 hours**
 
 **Prerequisites:**
 
